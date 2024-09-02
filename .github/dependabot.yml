@@ -1,4 +1,11 @@
 version: 2
+
+groups:
+  mkdocs:
+    patterns:
+    - "squidfunk/mkdocs-material"
+    - "mkdocs-material"
+
 updates:
   - package-ecosystem: docker
     directories:
@@ -44,7 +51,7 @@ updates:
         - "aws-sdk-client-mock-jest"
       aws-cdk:
         patterns:
-        - "@aws-cdk/*"
+        - "@aws-cdk/cli-lib-alpha"
         - "aws-cdk-lib"
         - "aws-cdk"
       typedoc:

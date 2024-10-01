@@ -1,5 +1,5 @@
 # See here for image contents: https://github.com/microsoft/vscode-dev-containers/blob/v0.212.0/containers/javascript-node/.devcontainer/base.Dockerfile
-FROM mcr.microsoft.com/vscode/devcontainers/javascript-node@sha256:aedf26ccde02f734a8d8879778f5daac6c71609bb1df1b5a3e9d708f3c2827a2
+FROM mcr.microsoft.com/vscode/devcontainers/javascript-node@sha256:61c3428ca51d3e899b4d2850e0395fd72d67c7e7de5139c9a9d7d6e2843e3284
 
 # Install fnm to manage Node.js versions
 RUN curl -fsSL https://fnm.vercel.app/install -o /tmp/install \

@@ -1,6 +1,6 @@
 # Contributing Guidelines <!-- omit in toc -->
 
-## Table of contents <!-- omit in toc -->
+## Table of contents! <!-- omit in toc -->
 
 - [Reporting Bugs/Feature Requests](#reporting-bugsfeature-requests)
 - [Contributing via Pull Requests](#contributing-via-pull-requests)

@@ -3,7 +3,7 @@
     "packages/*"
   ],
   "entryPointStrategy": "packages",
-  "name": "Powertools for AWS Lambda (Typescript) API Reference",
+  "name": "Powertools for AWS Lambda (Typescript) API",
   "readme": "README.md",
   "out": "api",
   "exclude": [

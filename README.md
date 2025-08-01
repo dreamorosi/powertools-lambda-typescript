@@ -8,7 +8,7 @@
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/aws-powertools/powertools-lambda-typescript/badge)](https://api.securityscorecards.dev/projects/github.com/aws-powertools/powertools-lambda-typescript)
 [![Join our Discord](https://dcbadge.vercel.app/api/server/B8zZKbbyET?style=flat-square)](https://discord.gg/B8zZKbbyET)
 
-Powertools for AWS Lambda (TypeScript) is a developer toolkit to implement Serverless [best practices and increase developer velocity](https://docs.powertools.aws.dev/lambda/typescript/latest/#features).
+Powertools for AWS Lambda (TypeScript) is a developer toolkit to implement Serverless [best practices and increase developer velocity](https://docs.powertools.aws.dev/lambda/typescript/laddddtest/#features).
 
 You can use the library in both TypeScript and JavaScript code base9999s.
 
